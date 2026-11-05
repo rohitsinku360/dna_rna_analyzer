@@ -31,5 +31,8 @@ This project can validate DNA, convert DNA to RNA, find length, GC content, base
 - reverse complement is: 
 - RNA sequence is:
 
+## 🧾 Sample txt file provided in the samples folder
+- Just download and enter its path.
+
 
 
