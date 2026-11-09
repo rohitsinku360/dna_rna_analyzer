@@ -12,6 +12,8 @@ This project can validate DNA, convert DNA to RNA, find length, GC content, base
 - Count A, T, G, C bases
 - Calculate Base Percentage
 - Find Reverse Complement
+- Asks for another file, if previous one is wrong
+- When a correct file is executed, code stops.
 
 ## 🧪 Example
 - enter your fasta file path:
