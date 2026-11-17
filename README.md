@@ -7,6 +7,7 @@ This project can validate DNA, convert DNA to RNA, find length, GC content, base
 
 - Validate DNA sequence (only A, T, G, C allowed)
 - Convert DNA to RNA
+- Convert RNA to Codon
 - Find DNA length
 - Calculate GC Content (%)
 - Count A, T, G, C bases
@@ -32,6 +33,7 @@ This project can validate DNA, convert DNA to RNA, find length, GC content, base
 - gc content:
 - reverse complement is: 
 - RNA sequence is:
+- Codon is: 
 
 ## 🧾 Sample txt file provided in the samples folder
 - Just download and enter its path.
