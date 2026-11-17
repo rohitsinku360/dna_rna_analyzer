@@ -1,4 +1,4 @@
-from tools_dna import fasta_validate, dna_to_rna, len_dna, count_base, base_per, gc_content, rev_comp
+from tools_dna import fasta_validate, dna_to_rna, len_dna, count_base, base_per, gc_content, rev_comp, codon
 valid=True
 while valid:
     try:
@@ -19,8 +19,8 @@ while valid:
             print("gc content: ",gc_content(seq))
             print("reverse complement is: ",rev_comp(seq))
             print("RNA sequence is: ",dna_to_rna(seq))
+            print("codon is",codon(dna_to_rna(seq)))
             valid=False
             break
         else:
             print("try again!")
-            
